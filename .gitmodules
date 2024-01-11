@@ -12,3 +12,6 @@
 [submodule "plugin/mosdns"]
 	path = plugin/mosdns
 	url = https://github.com/IrineSistiana/mosdns
+[submodule "plugin/curl-android"]
+	path = plugin/curl-android
+	url = https://github.com/vvb2060/curl-android
